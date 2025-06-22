@@ -1,1 +1,1 @@
-# Wheye
+loadstring(game:HttpGet("Link"))();
